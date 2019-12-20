@@ -2,10 +2,10 @@
 
 `code usage`
 
- import TextInputField from "./TextInputField";`
+ `import TextInputField from "./TextInputField";`
 
 
- <TextInputField
+ `<TextInputField
   returnKeyType={"next"}
   activeColor='#ffffff'
   inactiveColor='#465D65'
@@ -43,4 +43,4 @@
       }
       this.setState({ firstName: firstName });
   }}
-/>
+/>`
